@@ -10,5 +10,6 @@ This website was created for an individual who needs quick access to producing a
 
 ## Links
 
-https://github.com/aniecres/Password-Generator
+https://github.com/aniecres/Password-Generator - Github<br>
+https://aniecres.github.io/Password-Generator/ - Deployed Website
 
