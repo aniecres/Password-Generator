@@ -2,8 +2,48 @@
     box-sizing: border-box; 
 }
 
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+
 header {
     text-align: center;
     padding: 30px 20px 0 20px;
 }
 
+.box {
+    background-color: white;
+    align-items: center;
+    text-align: center; 
+   border-radius: 5px;
+   border-width: 1px;
+   box-shadow: 0px 2px 8px 0px;
+   font-size: 20px;
+   margin: 0 auto;
+   max-width: 800px;
+   padding: 30px 15px 40px 15px; 
+}
+
+.boxBody {
+    align-items: center;
+    text-align: center;
+    min-height: 100px;
+
+}
+
+h2 {
+   text-align: left; 
+    
+}
+
+#generate {
+    border-radius: 1px;
+    border-style: dashed; 
+    border-width: 3px;
+   
+}
+
+#generateButton {
+    
+}
